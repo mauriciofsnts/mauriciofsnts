@@ -1,5 +1,6 @@
 ### Hi, I'm Mauricio (:  👋 
-I am a front-end developer with a passion for coding and learning new tech.
+
+I'm a software engineer with experience developing software on multiple platforms and languages. I have a passion for solving complex problems and working as a team to build scalable and efficient solutions.
 
 ---
 
