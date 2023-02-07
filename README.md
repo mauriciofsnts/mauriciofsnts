@@ -2,15 +2,7 @@
 
 I'm a software engineer with experience developing software on multiple platforms and languages. I have a passion for solving complex problems and working as a team to build scalable and efficient solutions.
 
----
 
- <div>
-  <a href="https://github.com/mauriciofsnts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciofsnts&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciofsnts&layout=compact&langs_count=7&theme=react"/>
-</div>
- 
- 
 <div style="display: inline_block">
   <br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,6 +15,16 @@ I'm a software engineer with experience developing software on multiple platform
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">  
 </div>
 
+
+---
+
+ <div>
+  <a href="https://github.com/mauriciofsnts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciofsnts&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciofsnts&layout=compact&langs_count=7&theme=react"/>
+</div>
+ 
+ 
 <!--
 **mauriciofsnts/mauriciofsnts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
