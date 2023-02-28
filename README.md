@@ -3,6 +3,7 @@
 I'm a software engineer with experience developing software on multiple platforms and languages. I have a passion for solving complex problems and working as a team to build scalable and efficient solutions.
 
 
+<!--
 <div style="display: inline_block">
   <br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,8 +16,21 @@ I'm a software engineer with experience developing software on multiple platform
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">  
 </div>
 
+-->
 
----
+ 
+## 💼 Skills
+ 
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=192576)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=192576)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=192576)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=192576)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=192576)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=192576)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=192576)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=192576)
+
+ 
 
  <div>
   <a href="https://github.com/mauriciofsnts">
@@ -25,6 +39,7 @@ I'm a software engineer with experience developing software on multiple platform
 </div>
  
  
+--- 
 <!--
 **mauriciofsnts/mauriciofsnts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
