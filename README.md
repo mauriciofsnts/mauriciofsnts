@@ -18,12 +18,10 @@ Go, TypeScript, JavaScript, React, Node.js, Python, Java, Terraform, Shell, Nix
 
 - [hermes](https://github.com/mauriciofsnts/hermes) — email API service (Go, Redis, Discord, SMTP)
 - [exodia](https://github.com/mauriciofsnts/exodia) — Discord bot (Node.js, TypeScript)
-- [vulcano](https://github.com/mauriciofsnts/vulcano) — multi-purpose Discord bot, news API integration + data generators (Go)
 - [react-microfrontend-single-spa](https://github.com/mauriciofsnts/react-microfrontend-single-spa) — React microfrontend with Keycloak auth
 - [clean-react](https://github.com/mauriciofsnts/clean-react) — React app with Hooks, TypeScript, TDD, Clean Architecture
 - [gofast](https://github.com/mauriciofsnts/gofast) — Go template with Chi Router, validation, env parsing
 - [kv](https://github.com/mauriciofsnts/kv) — encrypted .env manager with a TUI
-- [lockr](https://github.com/mauriciofsnts/lockr) — manage your envs via CLI or web
 
 ## Stats
 
